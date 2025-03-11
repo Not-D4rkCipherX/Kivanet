@@ -1,8 +1,8 @@
 # Kiva Network BOT
 Kiva Network BOT
 
-- Register Here : [Kiva Network](https://kivanet.com/register.html?code=AOIVAI)
-- Use Code : AOIVAI
+- Register Here : [Kiva Network](https://kivanet.com/register.html?code=IL31FR)
+- Use Code : IL31FR
 - Send Email : `Verify Me` to `verify@kivanet.com` With Same Registered Email
 - Login : `https://app.kivanet.com/`
 
