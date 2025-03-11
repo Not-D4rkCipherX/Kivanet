@@ -20,7 +20,7 @@ Kiva Network BOT
 
 - Make sure you have Python3.9 or higher installed and pip.
 
-## Instalation
+## Installation
 
 1. **COPY AND PASTE**
    ```bash
