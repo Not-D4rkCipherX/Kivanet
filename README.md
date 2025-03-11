@@ -22,21 +22,18 @@ Kiva Network BOT
 
 ## Instalation
 
-1. **Clone The Repositories:**
+1. **COPY AND PASTE**
    ```bash
    git clone https://github.com/Not-D4rkCipherX/Kivanet.git
    cd Kivanet
    pip install -r requirements.txt #or pip3 install -r requirements.txt
    ```
 
-2. **Install Requirements:**
-   ```bash
-   pip install -r requirements.txt #or pip3 install -r requirements.txt
-   ```
-
-## Configuration
-
-- **accounts.json:** You will find the file `accounts.json` inside the project directory. Make sure `accounts.json` contains data that matches the format expected by the script. Here are examples of file formats:
+## ACCOUNTS SETUP
+```bash
+nano accounts.json
+```
+**Make sure `accounts.json` contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash
   [
       {
@@ -49,8 +46,11 @@ Kiva Network BOT
       }
   ]
   ```
-
-- **proxy.txt:** You will find the file `proxy.txt` inside the project directory. Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
+## PROXY (OPTIONAL)
+```bash
+nano proxy.txt
+```
+ **Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash
     ip:port # Default Protcol HTTP.
     protocol://ip:port
